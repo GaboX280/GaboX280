@@ -99,8 +99,8 @@ I learn by building practical projects, testing ideas in labs, and documenting w
 
 Training and course-completion credentials that support my current learning path:
 
-- **IBM** — Enterprise Security in Practice
-- **IBM** — Security Operations Center in Practice
+- **IBM SkillsBuild** — Enterprise Security in Practice
+- **IBM SkillsBuild** — Security Operations Center in Practice
 - **IBM SkillsBuild** — Getting Started with Cybersecurity
 - **TryHackMe** — SEC0, SEC1, and Hacker Holidays
 - **Cisco Networking Academy** — Introduction to Networks; Routing and Switching Fundamentals
