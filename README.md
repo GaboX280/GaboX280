@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="LinkedIn" />
   </a>
-  <a href="https://cybersecurity-portfolio-rust.vercel.app/">
+  <a href="https://gabox280.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-0A192F?style=for-the-badge&logo=vercel&logoColor=00CFFF" alt="Live portfolio" />
   </a>
 
@@ -72,7 +72,7 @@ I learn by building practical projects, testing ideas in labs, and documenting w
       <p><strong>Personal Security Portfolio</strong></p>
       <p>A responsive portfolio website presenting my projects, technical skills, training, and cybersecurity journey.</p>
       <p><sub>React · Vite · JavaScript · CSS · Vercel</sub></p>
-      <a href="https://github.com/GaboX280/cybersecurity-portfolio">Source code →</a> · <a href="https://cybersecurity-portfolio-rust.vercel.app/">Live site →</a>
+      <a href="https://github.com/GaboX280/cybersecurity-portfolio">Source code →</a> · <a href="https://gabox280.vercel.app/">Live site →</a>
     </td>
   </tr>
 </table>
