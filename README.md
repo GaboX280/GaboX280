@@ -1,11 +1,11 @@
 <!--
   GitHub Profile README — GaboX280
-  Theme: cyberpunk neon SOC / Blue Team
+  Theme: blue gradient cybersecurity / SOC / Blue Team / Pentesting
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:120458,45:7A00FF,75:00CFFF,100:FF2A6D&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, SOC, Blue Team" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team%20%7C%20Pentesting&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, SOC, Blue Team, Pentesting" width="100%" />
 
   <br/>
 
@@ -21,7 +21,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Building+Blue+Team+%26+SOC+tools;Learning+by+building%2C+testing%2C+and+documenting;Exploring+AI+Security+%26+ethical+hacking" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Building+Blue+Team+%26+SOC+tools;Learning+by+building%2C+testing%2C+and+documenting;Exploring+AI+Security+%26+Pentesting" alt="Typing introduction" />
 
 </div>
 
@@ -31,11 +31,11 @@
 
 I'm **Gabriel Villalobos Alpízar**, a Cybersecurity Engineering student at Universidad Fidélitas in Costa Rica, focused on **SOC operations, defensive security, threat monitoring, and security automation**.
 
-I learn by building practical projects, testing ideas in labs, and documenting what I discover. I'm also interested in AI security and ethical hacking, especially where offensive techniques can help strengthen defenses.
+I learn by building practical projects, testing ideas in labs, and documenting what I discover. I'm also interested in AI security and pentesting, and enjoy exploring offensive techniques in controlled labs to understand how systems can be tested and strengthened.
 
-- `focus` → SOC · Blue Team · Detection & Response
+- `focus` → SOC · Blue Team · Detection & Response · Pentesting
 - `building` → Security tools, automation, and hands-on labs
-- `exploring` → AI security · Threat detection · Network defense
+- `exploring` → Pentesting · AI security · Threat detection · Network defense
 - `mindset` → Learn it. Build it. Test it. Document it.
 
 ---
