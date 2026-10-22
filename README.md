@@ -1,11 +1,11 @@
 <!--
   GitHub Profile README — GaboX280
-  Theme: blue gradient cybersecurity / SOC / Blue Team / Pentesting
+  Theme: blue gradient cybersecurity / Blue Team / Purple Team
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team%20%7C%20Pentesting&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, SOC, Blue Team, Pentesting" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20Pentesting%20%7C%20Purple%20Team&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Blue Team, Pentesting, Purple Team" width="100%" />
 
   <br/>
 
@@ -29,13 +29,13 @@
 
 ## `> whoami`
 
-I'm **Gabriel Villalobos Alpízar**, a Cybersecurity Engineering student at Universidad Fidélitas in Costa Rica, focused on **SOC operations, defensive security, threat monitoring, and security automation**.
+I'm **Gabriel Villalobos Alpízar**, a Cybersecurity Engineering student at Universidad Fidélitas in Costa Rica, focused on **Blue Team operations, threat detection, and security automation**, with an interest in pentesting and Purple Team practices.
 
-I learn by building practical projects, testing ideas in labs, and documenting what I discover. I'm also interested in AI security and pentesting, and enjoy exploring offensive techniques in controlled labs to understand how systems can be tested and strengthened.
+I learn by building practical projects, testing ideas in labs, and documenting what I discover. I'm interested in combining offensive security testing with defensive monitoring—using controlled attack simulations to validate detections, improve security controls, and strengthen response workflows. I'm also exploring AI security.
 
-- `focus` → SOC · Blue Team · Detection & Response · Pentesting
-- `building` → Security tools, automation, and hands-on labs
-- `exploring` → Pentesting · AI security · Threat detection · Network defense
+- `focus` → Blue Team · SOC · Detection & Response
+- `building` → Security tools, automation, and hands-on security labs
+- `exploring` → Purple Team practices · Pentesting · AI security
 - `mindset` → Learn it. Build it. Test it. Document it.
 
 ---
@@ -91,7 +91,7 @@ I learn by building practical projects, testing ideas in labs, and documenting w
 
 </div>
 
-**Security areas:** SOC fundamentals · Log analysis · Security monitoring · Windows auditing · Network fundamentals · Firewall concepts · Defensive automation
+**Security areas:** SOC fundamentals · Log analysis · Security monitoring · Windows auditing · Network fundamentals · Firewall concepts · Defensive automation · Pentesting labs
 
 ---
 
@@ -115,7 +115,8 @@ Training and course-completion credentials that support my current learning path
 ## `> currently_learning`
 
 - Improving SOC workflows, alert triage, and defensive analysis.
-- Building and refining practical security tools.
+- Practicing pentesting in controlled labs and learning how to validate security controls.
+- Exploring Purple Team workflows: simulate attacks, review detections, and improve defensive rules.
 - Strengthening Python, Linux, Windows security, and networking fundamentals.
 - Exploring AI security and adversarial testing.
 
@@ -147,7 +148,7 @@ Training and course-completion credentials that support my current learning path
 
 ## `> connect`
 
-I'm always glad to connect with people in cybersecurity, learn from the community, and exchange ideas about defensive security and practical projects.
+I'm always glad to connect with people in cybersecurity, learn from the community, and exchange ideas about Blue Team operations, pentesting, Purple Team practices, and practical security projects.
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
@@ -161,5 +162,5 @@ I'm always glad to connect with people in cybersecurity, learn from the communit
 <div align="center">
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00CFFF,100:061426" alt="" width="100%" />
-  <sub><code>defend • detect • learn • repeat</code></sub>
+  <sub><code>simulate • detect • validate • improve</code></sub>
 </div>
