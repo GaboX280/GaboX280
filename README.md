@@ -15,8 +15,8 @@
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="LinkedIn" />
   </a>
-  <a href="https://gabrielvillalobos.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0A192F?style=for-the-badge&logo=vercel&logoColor=00CFFF" alt="Portfolio" />
+  <a href="https://cybersecurity-portfolio-rust.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0A192F?style=for-the-badge&logo=vercel&logoColor=00CFFF" alt="Live portfolio" />
   </a>
 
   <br/><br/>
