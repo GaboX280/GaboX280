@@ -132,6 +132,17 @@ Training and course-completion credentials that support my current learning path
   <img src="https://streak-stats.demolab.com?user=GaboX280&hide_border=true&background=061426&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=DCEBFA&dates=91A8C2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
 </div>
 
+
+<div align="center">
+
+  <h3>🏙️ GitHub Skyline</h3>
+  <a href="https://gitcity.natrajx.in/GaboX280">
+    <img src="https://gitcity.natrajx.in/api/svg?u=GaboX280&theme=ocean" alt="GaboX280 GitHub contribution city — GitCity" width="100%" />
+  </a>
+  <sub>My GitHub contribution history visualized as a 3D city by GitCity.</sub>
+
+</div>
+
 ---
 
 ## `> connect`
