@@ -1,11 +1,11 @@
 <!--
   GitHub Profile README — GaboX280
-  Theme: electric-blue SOC / cyber defense lab
+  Theme: cyberpunk neon SOC / Blue Team
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,45:073B73,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=58&descSize=18&animation=fadeIn" alt="GaboX280 — Cybersecurity, SOC, Blue Team" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:120458,45:7A00FF,75:00CFFF,100:FF2A6D&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, SOC, Blue Team" width="100%" />
 
   <br/>
 
