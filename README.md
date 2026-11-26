@@ -1,11 +1,11 @@
 <!--
   GitHub Profile README — GaboX280
-  Theme: blue gradient cybersecurity / Blue Team / Purple Team
+  Theme: electric-blue cybersecurity
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20Pentesting%20%7C%20Purple%20Team&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Blue Team, Pentesting, Purple Team" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
 
   <br/>
 
@@ -21,7 +21,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Building+Blue+Team+%26+SOC+tools;Learning+by+building%2C+testing%2C+and+documenting;Exploring+AI+Security+%26+Pentesting" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Exploring+Offensive+%26+Network+Security;Building+Security+Tools+%26+Practical+Labs;Learn+by+building%2C+testing%2C+and+documenting" alt="Typing introduction" />
 
 </div>
 
@@ -29,13 +29,13 @@
 
 ## `> whoami`
 
-I'm **Gabriel Villalobos Alpízar**, a Cybersecurity Engineering student at Universidad Fidélitas in Costa Rica, focused on **Blue Team operations, threat detection, and security automation**, with an interest in pentesting and Purple Team practices.
+I'm **Gabriel Villalobos Alpízar**, a Cybersecurity Engineering student at Universidad Fidélitas in Costa Rica, building practical skills in **offensive security, network security, and security tooling**.
 
-I learn by building practical projects, testing ideas in labs, and documenting what I discover. I'm interested in combining offensive security testing with defensive monitoring—using controlled attack simulations to validate detections, improve security controls, and strengthen response workflows. I'm also exploring AI security.
+My approach is to build a broad cybersecurity foundation while developing deeper skills through hands-on projects, controlled labs, and technical documentation. I'm especially interested in understanding how systems and networks can be tested, secured, monitored, and improved.
 
-- `focus` → Blue Team · SOC · Detection & Response
-- `building` → Security tools, automation, and hands-on security labs
-- `exploring` → Purple Team practices · Pentesting · AI security
+- `focus` → Offensive Security · Network Security
+- `building` → Security tools · Automation · Cybersecurity labs
+- `foundations` → Networking · Linux · Windows · Python
 - `mindset` → Learn it. Build it. Test it. Document it.
 
 ---
@@ -45,37 +45,39 @@ I learn by building practical projects, testing ideas in labs, and documenting w
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ NexusSIEM</h3>
-      <p><strong>Blue Team SIEM & Automated Defense Framework</strong></p>
-      <p>A learning project for security monitoring, alerting, and defensive response. Built around a Linux environment with a Flask-based workflow, Microsoft Teams Adaptive Cards, and firewall blocking actions.</p>
-      <p><sub>Python · Flask · Linux · Azure · Security Monitoring · Automation</sub></p>
-      <a href="https://github.com/GaboX280/NexusSIEM">View repository →</a>
+      <h3>⚔️ ROOT ACCESS</h3>
+      <p><strong>Cybersecurity Red Team Simulator</strong></p>
+      <p>A game-like cybersecurity learning environment with a fictional operating system, simulated terminal, and interactive Red Team challenges. Currently in pre-alpha; it does not perform real-world scanning or exploitation.</p>
+      <p><sub>React · TypeScript · Three.js · Zustand · Tailwind</sub></p>
+      <a href="https://github.com/GaboX280/ROOT-ACCESS">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Atom-Hardening</h3>
-      <p><strong>Windows Security Audit & Hardening</strong></p>
-      <p>A Python-based Windows auditing project that checks security configuration, reports findings, and helps identify hardening opportunities.</p>
-      <p><sub>Python · Windows · Security Baselines · Testing · CI</sub></p>
-      <a href="https://github.com/GaboX280/Atom-Hardening">View repository →</a>
+      <h3>🛰️ NexusSIEM</h3>
+      <p><strong>Blue Team SIEM & Automated Defense Framework</strong></p>
+      <p>A learning project for Linux security monitoring, alerting, and defensive response, with a Flask-based workflow, Microsoft Teams Adaptive Cards, and firewall response integrations.</p>
+      <p><sub>Python · Flask · Linux · Azure · SIEM · Automation</sub></p>
+      <a href="https://github.com/GaboX280/NexusSIEM">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌨️ DaemonHID</h3>
-      <p><strong>Arduino HID & Hardware Lab</strong></p>
-      <p>A hardware-learning project exploring an Arduino-based interface, command handling, and local communication. Built for controlled experimentation and documentation.</p>
-      <p><sub>Arduino · C/C++ · Embedded Systems · Hardware Security</sub></p>
-      <a href="https://github.com/GaboX280/DaemonHID">View repository →</a>
+      <h3>🛡️ Atom-Hardening</h3>
+      <p><strong>Windows Security Auditing</strong></p>
+      <p>A Python-based auditing tool that evaluates selected Windows security settings, normalizes findings, calculates a security score, and generates TXT, JSON, and HTML reports.</p>
+      <p><sub>Python · Windows · Security Auditing · Testing · CI</sub></p>
+      <a href="https://github.com/GaboX280/Atom-Hardening">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Cybersecurity Portfolio</h3>
-      <p><strong>Personal Security Portfolio</strong></p>
-      <p>A responsive portfolio website presenting my projects, technical skills, training, and cybersecurity journey.</p>
-      <p><sub>React · Vite · JavaScript · CSS · Vercel</sub></p>
-      <a href="https://github.com/GaboX280/cybersecurity-portfolio">Source code →</a> · <a href="https://gabox280.vercel.app/">Live site →</a>
+      <h3>⌨️ DaemonHID</h3>
+      <p><strong>Arduino HID & Embedded Systems Lab</strong></p>
+      <p>An experimental Arduino-based hardware project exploring USB-HID demonstrations, Wi-Fi access point functionality, and a local web interface. Hardware modules are still under development and validation.</p>
+      <p><sub>Arduino · C++ · Embedded Systems · Wi-Fi</sub></p>
+      <a href="https://github.com/GaboX280/DaemonHID">View repository →</a>
     </td>
   </tr>
 </table>
+
+**Other lab work:** Custom Kali Linux CTF Lab ISO with a curated toolkit for network, web, password, forensics, reverse-engineering, and automation exercises.
 
 ---
 
@@ -84,41 +86,45 @@ I learn by building practical projects, testing ideas in labs, and documenting w
 <div align="center">
 
   <h3>Development</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,sqlite,git,github,vscode&theme=dark" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,flask,sqlite,git,github,vscode&theme=dark" alt="Development technologies" />
 
   <h3>Systems & Infrastructure</h3>
   <img src="https://skillicons.dev/icons?i=linux,windows,azure,arduino,bash&theme=dark" alt="Systems and infrastructure technologies" />
 
 </div>
 
-**Security areas:** SOC fundamentals · Log analysis · Security monitoring · Windows auditing · Network fundamentals · Firewall concepts · Defensive automation · Pentesting labs
+**Security areas:** Network fundamentals · TCP/IP · Linux security · Windows security auditing · Pentesting labs · Security monitoring · Firewall concepts · Defensive automation
 
 ---
 
 ## `> training_and_credentials`
 
-Training and course-completion credentials that support my current learning path:
+Selected completed courses and learning credentials:
 
-- **IBM SkillsBuild** — Enterprise Security in Practice
-- **IBM SkillsBuild** — Security Operations Center in Practice
+- **TryHackMe** — SEC0 and SEC1
 - **IBM SkillsBuild** — Getting Started with Cybersecurity
-- **TryHackMe** — SEC0, SEC1, and Hacker Holidays
-- **Cisco Networking Academy** — Introduction to Networks; Routing and Switching Fundamentals
-- **Linux Professional Institute** — Linux Essentials learning course
+- **IBM SkillsBuild** — Security Operations Center in Practice
+- **IBM SkillsBuild** — Enterprise Security in Practice
+- **Cisco Networking Academy** — Introduction to Networks
+- **Cisco Networking Academy** — Routing and Switching Fundamentals
+- **Cisco Networking Academy** — Introduction to IoT
+- **Linux Essentials** — Learning course
 - **Python Institute / OpenEDG** — Python Essentials 1 and 2
 - **AWS** — Cloud Computing 101
 
-*These are courses and learning credentials, not claims of professional experience or paid certification exams.*
+**Currently studying:** Fortinet cybersecurity and cloud fundamentals · Hack The Box CPTS learning path
+
+*Course completions and learning paths are listed separately from professional certification exams.*
 
 ---
 
 ## `> currently_learning`
 
-- Improving SOC workflows, alert triage, and defensive analysis.
-- Practicing pentesting in controlled labs and learning how to validate security controls.
-- Exploring Purple Team workflows: simulate attacks, review detections, and improve defensive rules.
-- Strengthening Python, Linux, Windows security, and networking fundamentals.
-- Exploring AI security and adversarial testing.
+- Developing practical offensive security skills through controlled labs and CTF exercises.
+- Deepening networking knowledge, including routing, switching, and network security.
+- Improving Python, Linux, and Windows security skills through hands-on projects.
+- Exploring security testing methodologies and responsible vulnerability research.
+- Continuing structured learning through Fortinet and Hack The Box.
 
 ---
 
@@ -132,7 +138,6 @@ Training and course-completion credentials that support my current learning path
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GaboX280&hide_border=true&background=061426&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=DCEBFA&dates=91A8C2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
 </div>
-
 
 <div align="center">
 
@@ -148,7 +153,7 @@ Training and course-completion credentials that support my current learning path
 
 ## `> connect`
 
-I'm always glad to connect with people in cybersecurity, learn from the community, and exchange ideas about Blue Team operations, pentesting, Purple Team practices, and practical security projects.
+I'm interested in connecting with cybersecurity learners and professionals, exchanging technical knowledge, and collaborating on practical security projects.
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
@@ -162,5 +167,5 @@ I'm always glad to connect with people in cybersecurity, learn from the communit
 <div align="center">
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00CFFF,100:061426" alt="" width="100%" />
-  <sub><code>simulate • detect • validate • improve</code></sub>
+  <sub><code>explore • build • test • improve</code></sub>
 </div>
