@@ -45,21 +45,12 @@ My approach is to build a broad cybersecurity foundation while developing deeper
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ ROOT ACCESS</h3>
-      <p><strong>Cybersecurity Red Team Simulator</strong></p>
-      <p>A game-like cybersecurity learning environment with a fictional operating system, simulated terminal, and interactive Red Team challenges. Currently in pre-alpha; it does not perform real-world scanning or exploitation.</p>
-      <p><sub>React · TypeScript · Three.js · Zustand · Tailwind</sub></p>
-      <a href="https://github.com/GaboX280/ROOT-ACCESS">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🛰️ NexusSIEM</h3>
       <p><strong>Blue Team SIEM & Automated Defense Framework</strong></p>
       <p>A learning project for Linux security monitoring, alerting, and defensive response, with a Flask-based workflow, Microsoft Teams Adaptive Cards, and firewall response integrations.</p>
       <p><sub>Python · Flask · Linux · Azure · SIEM · Automation</sub></p>
       <a href="https://github.com/GaboX280/NexusSIEM">View repository →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Atom-Hardening</h3>
       <p><strong>Windows Security Auditing</strong></p>
@@ -67,12 +58,21 @@ My approach is to build a broad cybersecurity foundation while developing deeper
       <p><sub>Python · Windows · Security Auditing · Testing · CI</sub></p>
       <a href="https://github.com/GaboX280/Atom-Hardening">View repository →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⌨️ DaemonHID</h3>
       <p><strong>Arduino HID & Embedded Systems Lab</strong></p>
       <p>An experimental Arduino-based hardware project exploring USB-HID demonstrations, Wi-Fi access point functionality, and a local web interface. Hardware modules are still under development and validation.</p>
       <p><sub>Arduino · C++ · Embedded Systems · Wi-Fi</sub></p>
       <a href="https://github.com/GaboX280/DaemonHID">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 Basic Port Scanner</h3>
+      <p><strong>TCP Port Scanner</strong></p>
+      <p>A small educational Python tool that uses sockets to check TCP port availability on a target host in controlled lab environments.</p>
+      <p><sub>Python · TCP/IP · Sockets · Networking</sub></p>
+      <a href="https://github.com/GaboX280/basic-port-scanner">View repository →</a>
     </td>
   </tr>
 </table>
