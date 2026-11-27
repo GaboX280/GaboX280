@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/GaboX280/GaboX280/main/assets/profile-banner.svg" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFFFFF,100:FFFFFF&text=GaboX280&fontColor=000000&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
 
   <br/>
 
