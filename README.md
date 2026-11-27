@@ -38,42 +38,46 @@ My approach is to build a broad cybersecurity foundation while developing deeper
 
 ## `> featured_projects`
 
+Selected projects focused on security tooling, system auditing, embedded development, and network fundamentals.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ NexusSIEM</h3>
-      <p><strong>Blue Team SIEM & Automated Defense Framework</strong></p>
-      <p>A learning project for Linux security monitoring, alerting, and defensive response, with a Flask-based workflow, Microsoft Teams Adaptive Cards, and firewall response integrations.</p>
+      <h3>NexusSIEM</h3>
+      <strong>Security Monitoring & Automated Defense</strong>
+      <p>Linux security monitoring and alerting project with a Flask-based workflow, Microsoft Teams Adaptive Cards, and firewall response integrations.</p>
       <p><sub>Python · Flask · Linux · Azure · SIEM · Automation</sub></p>
-      <a href="https://github.com/GaboX280/NexusSIEM">View repository →</a>
+      <a href="https://github.com/GaboX280/NexusSIEM">View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Atom-Hardening</h3>
-      <p><strong>Windows Security Auditing</strong></p>
-      <p>A Python-based auditing tool that evaluates selected Windows security settings, normalizes findings, calculates a security score, and generates TXT, JSON, and HTML reports.</p>
+      <h3>Atom-Hardening</h3>
+      <strong>Windows Security Auditing</strong>
+      <p>Python-based auditing tool that evaluates selected Windows security settings, normalizes findings, calculates a security score, and generates TXT, JSON, and HTML reports.</p>
       <p><sub>Python · Windows · Security Auditing · Testing · CI</sub></p>
-      <a href="https://github.com/GaboX280/Atom-Hardening">View repository →</a>
+      <a href="https://github.com/GaboX280/Atom-Hardening">View repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌨️ DaemonHID</h3>
-      <p><strong>Arduino HID & Embedded Systems Lab</strong></p>
-      <p>An experimental Arduino-based hardware project exploring USB-HID demonstrations, Wi-Fi access point functionality, and a local web interface. Hardware modules are still under development and validation.</p>
-      <p><sub>Arduino · C++ · Embedded Systems · Wi-Fi</sub></p>
-      <a href="https://github.com/GaboX280/DaemonHID">View repository →</a>
+      <h3>DaemonHID</h3>
+      <strong>USB-HID & Embedded Systems</strong>
+      <p>Arduino-based hardware project exploring USB-HID demonstrations, Wi-Fi access point functionality, and a local web interface. Additional hardware modules remain under development and validation.</p>
+      <p><sub>Arduino UNO R4 WiFi · C++ · Embedded Systems · Wi-Fi</sub></p>
+      <a href="https://github.com/GaboX280/DaemonHID">View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 Basic Port Scanner</h3>
-      <p><strong>TCP Port Scanner</strong></p>
-      <p>A small educational Python tool that uses sockets to check TCP port availability on a target host in controlled lab environments.</p>
+      <h3>Basic Port Scanner</h3>
+      <strong>TCP Network Reconnaissance</strong>
+      <p>Educational Python utility that uses sockets to check TCP port availability on a target host in controlled lab environments.</p>
       <p><sub>Python · TCP/IP · Sockets · Networking</sub></p>
-      <a href="https://github.com/GaboX280/basic-port-scanner">View repository →</a>
+      <a href="https://github.com/GaboX280/basic-port-scanner">View repository</a>
     </td>
   </tr>
 </table>
 
-**Other lab work:** Custom Kali Linux CTF Lab ISO with a curated toolkit for network, web, password, forensics, reverse-engineering, and automation exercises.
+**Additional lab work**
+
+Custom Kali Linux CTF Lab ISO with a curated toolkit for network, web, password, forensics, reverse-engineering, and automation exercises.
 
 ---
 
