@@ -5,19 +5,15 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:222222,70:444444,100:777777&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:222222&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
 
   <br/>
 
-  <a href="https://github.com/GaboX280">
-    <img src="https://img.shields.io/badge/GitHub-GaboX280-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
-  </a>
-  <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-  </a>
-  <a href="https://gabox280.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live portfolio" />
-  </a>
+  <a href="https://github.com/GaboX280"><strong>[ GitHub ]</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/"><strong>[ LinkedIn ]</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://gabox280.vercel.app/"><strong>[ Portfolio ]</strong></a>
 
   <br/><br/>
 
