@@ -9,11 +9,11 @@
 
   <br/>
 
-  <a href="https://github.com/GaboX280"><strong>[ GitHub ]</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/"><strong>[ LinkedIn ]</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://gabox280.vercel.app/"><strong>[ Portfolio ]</strong></a>
+  <a href="https://github.com/GaboX280"><img src="assets/github-badge.svg" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/"><img src="assets/linkedin-badge.svg" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://gabox280.vercel.app/"><img src="assets/portfolio-badge.svg" alt="Portfolio" /></a>
 
   <br/><br/>
 
