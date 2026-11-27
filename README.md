@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:222222,70:555555,100:FFFFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:222222,70:444444,100:777777&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
 
   <br/>
 
@@ -143,7 +143,7 @@ Selected completed courses and learning credentials:
 
   <h3>🏙️ GitHub Skyline</h3>
   <a href="https://gitcity.natrajx.in/GaboX280">
-    <img src="https://gitcity.natrajx.in/api/svg?u=GaboX280&theme=mono" alt="GaboX280 GitHub contribution city — GitCity" width="100%" />
+    <img src="https://gitcity.natrajx.in/api/svg?u=GaboX280&theme=ocean" alt="GaboX280 GitHub contribution city — GitCity" width="100%" />
   </a>
   <sub>My GitHub contribution history visualized as a 3D city by GitCity.</sub>
 
@@ -166,6 +166,6 @@ I'm interested in connecting with cybersecurity learners and professionals, exch
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:FFFFFF,100:000000" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:333333,100:000000" alt="" width="100%" />
   <sub><code>explore • build • test • improve</code></sub>
 </div>
