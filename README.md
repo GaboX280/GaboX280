@@ -153,10 +153,11 @@ I'm interested in connecting with cybersecurity learners and professionals, exch
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Villalobos-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="assets/linkedin-badge.svg" alt="Connect on LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/GaboX280">
-    <img src="https://img.shields.io/badge/GitHub-GaboX280-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="assets/github-badge.svg" alt="Follow on GitHub" />
   </a>
 </div>
 
