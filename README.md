@@ -1,27 +1,27 @@
 <!--
   GitHub Profile README — GaboX280
-  Theme: electric-blue cybersecurity
+  Theme: monochrome black and white cybersecurity
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061426,35:123E8C,70:0878C9,100:00CFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18&animation=twinkling" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:222222,70:555555,100:FFFFFF&text=GaboX280&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Network%20Security&descAlignY=58&descSize=18" alt="GaboX280 — Cybersecurity, Offensive Security, Network Security" width="100%" />
 
   <br/>
 
   <a href="https://github.com/GaboX280">
-    <img src="https://img.shields.io/badge/GitHub-GaboX280-0A192F?style=for-the-badge&logo=github&logoColor=00CFFF" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-GaboX280-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
   </a>
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://gabox280.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0A192F?style=for-the-badge&logo=vercel&logoColor=00CFFF" alt="Live portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live portfolio" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Exploring+Offensive+%26+Network+Security;Building+Security+Tools+%26+Practical+Labs;Learn+by+building%2C+testing%2C+and+documenting" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;Exploring+Offensive+%26+Network+Security;Building+Security+Tools+%26+Practical+Labs;Learn+by+building%2C+testing%2C+and+documenting" alt="Typing introduction" />
 
 </div>
 
@@ -131,19 +131,19 @@ Selected completed courses and learning credentials:
 ## `> github_activity`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaboX280&show_icons=true&hide_border=true&bg_color=061426&title_color=00CFFF&icon_color=00CFFF&text_color=DCEBFA&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaboX280&layout=compact&hide_border=true&bg_color=061426&title_color=00CFFF&text_color=DCEBFA" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaboX280&show_icons=true&hide_border=true&bg_color=061426&title_color=FFFFFF&icon_color=FFFFFF&text_color=DCEBFA&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaboX280&layout=compact&hide_border=true&bg_color=061426&title_color=FFFFFF&text_color=DCEBFA" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GaboX280&hide_border=true&background=061426&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=DCEBFA&dates=91A8C2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=GaboX280&hide_border=true&background=0A0A0A&ring=FFFFFF&fire=BBBBBB&currStreakLabel=FFFFFF&sideLabels=BBBBBB&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
 </div>
 
 <div align="center">
 
   <h3>🏙️ GitHub Skyline</h3>
   <a href="https://gitcity.natrajx.in/GaboX280">
-    <img src="https://gitcity.natrajx.in/api/svg?u=GaboX280&theme=ocean" alt="GaboX280 GitHub contribution city — GitCity" width="100%" />
+    <img src="https://gitcity.natrajx.in/api/svg?u=GaboX280&theme=mono" alt="GaboX280 GitHub contribution city — GitCity" width="100%" />
   </a>
   <sub>My GitHub contribution history visualized as a 3D city by GitCity.</sub>
 
@@ -157,15 +157,15 @@ I'm interested in connecting with cybersecurity learners and professionals, exch
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-villalobos-alpizar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Villalobos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Villalobos-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/GaboX280">
-    <img src="https://img.shields.io/badge/GitHub-GaboX280-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-GaboX280-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00CFFF,100:061426" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:FFFFFF,100:000000" alt="" width="100%" />
   <sub><code>explore • build • test • improve</code></sub>
 </div>
